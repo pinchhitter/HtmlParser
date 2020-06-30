@@ -1,0 +1,2 @@
+sudo keytool -importcert -file ~/Downloads/kvsangathan.cer -alias jetty -keystore /usr/lib/jvm/java-8-oracle/jre/lib/security/cacerts
+PW: changeit
